@@ -130,7 +130,7 @@ Material:
     m_Colors:
     - Color_45a88230399c49ed8ff8d68c832bff91: {r: 1, g: 1, b: 1, a: 0}
     - Vector2_785d56d6157742739981effc1aac8150: {r: 0, g: 0, b: 0, a: 0}
-    - Vector2_ceeead4c002e46c3948acfdcba877f13: {r: 0.1, g: 0, b: 0, a: 0}
+    - Vector2_ceeead4c002e46c3948acfdcba877f13: {r: 1.63, g: 0, b: 0, a: 0}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
